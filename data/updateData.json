@@ -1,0 +1,52 @@
+[{
+    "time": "2019/11/21",
+    "content": [{
+        "type": "add",
+        "content": "README文档"
+    }, {
+        "type": "add",
+        "content": "页面文件"
+    }, {
+        "type": "add",
+        "content": "项目依赖文件"
+    }]
+}, {
+    "time": "2019/11/22",
+    "content": [{
+        "type": "change",
+        "content": "README文档"
+    }]
+}, {
+    "time": "2020/5/30",
+    "content": [{
+        "type": "add",
+        "content": "table组件对齐方式设置"
+    }]
+}, {
+    "time": "2020/6/2",
+    "content": [{
+        "type": "debug",
+        "content": "自定义网址无法计数的问题"
+    }, {
+        "type": "change",
+        "content": "查看常用网址表格删除"
+    }]
+}, {
+    "time": "2020/6/5",
+    "content": [{
+        "type": "change",
+        "content": "侧边栏书签删除"
+    }, {
+        "type": "del",
+        "content": "冗余代码"
+    }]
+}, {
+    "time": "2022/11/12",
+    "content": [{
+        "type": "add",
+        "content": "原作者virzs"
+    }, {
+        "type": "add",
+        "content": "本版本由殇情继续开发"
+    }]
+}]
